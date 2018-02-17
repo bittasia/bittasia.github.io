@@ -747,6 +747,7 @@ h6,
 }
 #content5-1 .mbr-section-title {
   color: #f7da64;
+  font-size: 30px;
 }
 #content5-1 P {
   color: #f7da64;
@@ -776,12 +777,13 @@ h6,
 }
 #extFeatures1-9 .mbr-section-title {
   color: #fff;
+  font-size: 30px;
 }
 #extFeatures1-9 P {
   font-size: 19px;
 }
 #extHeader2-c H3 {
-  font-size: 36px;
+  font-size: 30px;
   text-align: left;
   font-family: 'Raleway', sans-serif;
 }

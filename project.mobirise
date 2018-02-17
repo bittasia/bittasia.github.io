@@ -144,7 +144,8 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "color": "#f7da64"
+              "color": "#f7da64",
+              "font-size": "30px"
             },
             "P": {
               "color": "#f7da64",
@@ -357,7 +358,8 @@
         {
           "_styles": {
             ".mbr-section-title": {
-              "color": "#fff"
+              "color": "#fff",
+              "font-size": "30px"
             },
             "P": {
               "font-size": "19px"
@@ -525,7 +527,7 @@
           "_anchor": "extHeader2-c",
           "_styles": {
             "H3": {
-              "font-size": "36px",
+              "font-size": "30px",
               "text-align": "left",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
