@@ -32,7 +32,7 @@
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "siteUrl": "",
     "versionFirst": "4.4.1",
-    "uniqCompNum": 50,
+    "uniqCompNum": 60,
     "versionPublish": "4.4.1",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
@@ -184,7 +184,7 @@
             "paddingBottom": 1,
             "bgColor": "#ede6c8"
           },
-          "text": "<blockquote><p>Notices:</p><p>Bittasia Initial Exchange Offering will be starting on 21 Feb 2018. Limited public offering at 18,000,000 tokens. 1 BTSA Token = USD $1</p></blockquote>",
+          "text": "<blockquote><p>Notices:</p><p>Bittasia Initial Exchange Offering will be starting on 21 Feb 2018. Limited public offering at 18,000,000 tokens. 1 BTSA Token = USD $1</p><p>1. Fast Instant Cryptocurrency Exchange</p><p>2. Revenue sharing investment opportunity (Limted !)</p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -330,7 +330,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#F2F2F2",
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -483,6 +483,52 @@
           ],
           "_name": "extFeatures1",
           "_anchor": "extFeatures1-9"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/contact-bg-1960x1000.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#3d3d3d",
+            "bgText": "Animated text background",
+            "bgTextStyle": "Montserrat",
+            "bgTextColor": "#5e5546",
+            "bgTextSize": "50",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.3"
+          },
+          "title": "Initial Exchange Offering",
+          "text": "Limited initial exchange offering with massive projectory return via blockchain",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">GET FREE TRIAL</a>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extMsg-box4",
+          "_anchor": "extMsg-box4-1n",
+          "_styles": {
+            "SPAN": {
+              "font-size": "32px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "22px"
+            }
+          }
         },
         {
           "_params": {
@@ -762,7 +808,7 @@
           "date1": "<b>21 Feb 2018</b>",
           "date2": "<b>31 May 2018</b>",
           "date3": "<b>30 June 2018</b>",
-          "date4": "<b>1 Nov 2018</b>",
+          "date4": "<b>25 Nov 2018</b>",
           "date5": "5 May 2016",
           "date6": "6 June 2016",
           "date7": "7 July 2016",
@@ -941,6 +987,49 @@
         },
         {
           "_params": {
+            "showTitle": true,
+            "stripedBars": false,
+            "progress1": "3",
+            "progress2": "0",
+            "progress3": "0",
+            "progress4": "0",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/jumbotron.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "title": "<span style=\"font-weight: normal;\">RoadMap Progress</span><br><span style=\"font-weight: normal;\">(Subject to Changes)</span>",
+          "title1": "Token Sales 18M",
+          "title2": "First Revenue Sharing 20 June 2018",
+          "title3": "Phone Support System 25 Nov 2018",
+          "title4": "Voting System 25 Nov 2018",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extProgressBar1",
+          "_anchor": "extProgressBar1-1e",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "30px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "24px"
+            }
+          }
+        },
+        {
+          "_params": {
             "showTitles": true,
             "tabs": "4",
             "paddingTop": 2,
@@ -997,7 +1086,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "&nbsp;<a href=\"page4.html\">Terms and Conditions</a> &nbsp;<a href=\"page5.html\">Privacy Policy</a> &nbsp;<a href=\"page1.html\">FAQ</a> &nbsp;<a href=\"page3.html\">Contact</a> &nbsp;<a href=\"page2.html\">About Us</a><br>Copyright (c) 2018 Bittasia Exchange&nbsp;All rights reserved",
+          "text": "&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"page1.html\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp; &nbsp;<a href=\"page2.html\">About Us</a><br>Bittasia Exchange. Bahnhofstrasse 21, 6300 Zug, Switzerland<br>Copyright (c) 2018 Bittasia Exchange&nbsp;All rights reserved",
           "_tags": [
             "Theme"
           ],
@@ -1005,7 +1094,7 @@
           "_anchor": "footer1-q",
           "_styles": {
             "P": {
-              "font-size": "16px"
+              "font-size": "14px"
             }
           }
         }
@@ -1121,14 +1210,14 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "&nbsp;<a href=\"page4.html\">Terms and Conditions</a> &nbsp;<a href=\"page5.html\">Privacy Policy</a> &nbsp;<a href=\"page1.html\">FAQ</a> &nbsp;<a href=\"page3.html\">Contact</a> &nbsp;<a href=\"page2.html\">About Us</a><br>Copyright (c) 2018 Bittasia Exchange&nbsp;All rights reserved",
+          "text": "&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"page1.html\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp; &nbsp;<a href=\"page2.html\">About Us</a><br>Bittasia Exchange. Bahnhofstrasse 21, 6300 Zug, Switzerland<br>Copyright (c) 2018 Bittasia Exchange&nbsp;All rights reserved",
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
           "_styles": {
             "P": {
-              "font-size": "16px"
+              "font-size": "14px"
             }
           },
           "_anchor": "footer1-s"
@@ -1258,14 +1347,14 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "&nbsp;<a href=\"page4.html\">Terms and Conditions</a> &nbsp;<a href=\"page5.html\">Privacy Policy</a> &nbsp;<a href=\"page1.html\">FAQ</a> &nbsp;<a href=\"page3.html\">Contact</a> &nbsp;<a href=\"page2.html\">About Us</a><br>Copyright (c) 2018 Bittasia Exchange&nbsp;All rights reserved",
+          "text": "&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"page1.html\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp; &nbsp;<a href=\"page2.html\">About Us</a><br>Bittasia Exchange. Bahnhofstrasse 21, 6300 Zug, Switzerland<br>Copyright (c) 2018 Bittasia Exchange&nbsp;All rights reserved",
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
           "_styles": {
             "P": {
-              "font-size": "16px"
+              "font-size": "14px"
             }
           },
           "_anchor": "footer1-u"
@@ -1395,14 +1484,14 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "&nbsp;<a href=\"page4.html\">Terms and Conditions</a> &nbsp;<a href=\"page5.html\">Privacy Policy</a> &nbsp;<a href=\"page1.html\">FAQ</a> &nbsp;<a href=\"page3.html\">Contact</a> &nbsp;<a href=\"page2.html\">About Us</a><br>Copyright (c) 2018 Bittasia Exchange&nbsp;All rights reserved",
+          "text": "&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"page1.html\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp; &nbsp;<a href=\"page2.html\">About Us</a><br>Bittasia Exchange. Bahnhofstrasse 21, 6300 Zug, Switzerland<br>Copyright (c) 2018 Bittasia Exchange&nbsp;All rights reserved",
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
           "_styles": {
             "P": {
-              "font-size": "16px"
+              "font-size": "14px"
             }
           },
           "_anchor": "footer1-w"
@@ -1596,14 +1685,14 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "&nbsp;<a href=\"page4.html\">Terms and Conditions</a> &nbsp;<a href=\"page5.html\">Privacy Policy</a> &nbsp;<a href=\"page1.html\">FAQ</a> &nbsp;<a href=\"page3.html\">Contact</a> &nbsp;<a href=\"page2.html\">About Us</a><br>Copyright (c) 2018 Bittasia Exchange&nbsp;All rights reserved",
+          "text": "&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"page1.html\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp; &nbsp;<a href=\"page2.html\">About Us</a><br>Bittasia Exchange. Bahnhofstrasse 21, 6300 Zug, Switzerland<br>Copyright (c) 2018 Bittasia Exchange&nbsp;All rights reserved",
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
           "_styles": {
             "P": {
-              "font-size": "16px"
+              "font-size": "14px"
             }
           },
           "_anchor": "footer1-y"
@@ -1733,14 +1822,14 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "&nbsp;<a href=\"page4.html\">Terms and Conditions</a> &nbsp;<a href=\"page5.html\">Privacy Policy</a> &nbsp;<a href=\"page1.html\">FAQ</a> &nbsp;<a href=\"page3.html\">Contact</a> &nbsp;<a href=\"page2.html\">About Us</a><br>Copyright (c) 2018 Bittasia Exchange&nbsp;All rights reserved",
+          "text": "&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"page1.html\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp; &nbsp;<a href=\"page2.html\">About Us</a><br>Bittasia Exchange. Bahnhofstrasse 21, 6300 Zug, Switzerland<br>Copyright (c) 2018 Bittasia Exchange&nbsp;All rights reserved",
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
           "_styles": {
             "P": {
-              "font-size": "16px"
+              "font-size": "14px"
             }
           },
           "_anchor": "footer1-10"

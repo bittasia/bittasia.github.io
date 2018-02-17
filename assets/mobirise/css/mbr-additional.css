@@ -15,6 +15,8 @@
 
 
 
+
+
 body,
 input,
 textarea,
@@ -782,6 +784,14 @@ h6,
 #extFeatures1-9 P {
   font-size: 19px;
 }
+#extMsg-box4-1n SPAN {
+  font-size: 32px;
+  font-family: 'Raleway', sans-serif;
+}
+#extMsg-box4-1n P {
+  font-family: 'Raleway', sans-serif;
+  font-size: 22px;
+}
 #extHeader2-c H3 {
   font-size: 30px;
   text-align: left;
@@ -861,12 +871,18 @@ h6,
 #extFeatures13-h .mbr-section-title SPAN {
   font-size: 19px;
 }
+#extProgressBar1-1e .mbr-section-title {
+  font-size: 30px;
+}
+#extProgressBar1-1e .mbr-section-title SPAN {
+  font-size: 24px;
+}
 #extTabs1-m P {
   font-size: 19px;
   color: #232323;
 }
 #footer1-q P {
-  font-size: 16px;
+  font-size: 14px;
 }
 #ext_menu-r .hide-buttons .nav-btn {
   display: none !important;
@@ -933,7 +949,7 @@ h6,
   font-size: 12px;
 }
 #footer1-s P {
-  font-size: 16px;
+  font-size: 14px;
 }
 #ext_menu-t .hide-buttons .nav-btn {
   display: none !important;
@@ -1000,7 +1016,7 @@ h6,
   font-size: 12px;
 }
 #footer1-u P {
-  font-size: 16px;
+  font-size: 14px;
 }
 
 
@@ -1070,7 +1086,7 @@ h6,
   font-size: 12px;
 }
 #footer1-w P {
-  font-size: 16px;
+  font-size: 14px;
 }
 #extHeader13-18 H3 {
   font-size: 36px;
@@ -1148,7 +1164,7 @@ h6,
   font-size: 12px;
 }
 #footer1-y P {
-  font-size: 16px;
+  font-size: 14px;
 }
 #ext_menu-z .hide-buttons .nav-btn {
   display: none !important;
@@ -1215,5 +1231,5 @@ h6,
   font-size: 12px;
 }
 #footer1-10 P {
-  font-size: 16px;
+  font-size: 14px;
 }
