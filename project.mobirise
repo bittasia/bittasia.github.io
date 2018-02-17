@@ -683,7 +683,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             ".mbr-section-title SPAN": {
-              "font-size": "24px",
+              "font-size": "21px",
               "color": "#ffffff"
             },
             "TH": {
