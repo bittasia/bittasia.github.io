@@ -282,14 +282,19 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#c0a375"
+            "bgColor": "#41a85f"
           },
           "text": "<b>There are 1545 Coins listed in Market\n</b><div><b>We have only listed 48 coins in Bittasia. The most potential coins for long term profit.</b></div>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-1q"
+          "_anchor": "content1-1q",
+          "_styles": {
+            "DIV": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_params": {
