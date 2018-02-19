@@ -160,7 +160,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/1-bnxhrv0vqcqjqpze6escsq-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/hft-image-1500x1000.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -169,8 +169,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#475577",
-            "overlayOpacity": "0.7"
+            "overlayColor": "#41a85f",
+            "overlayOpacity": "0.1"
           },
           "title": "Bittasia Exchange 2018",
           "caption": "<p>The Safest, Fastest Asset Exchange&nbsp;<span style=\"font-size: 1.07rem;\">at the best rate. &nbsp;</span><span style=\"font-size: 1.07rem;\">Transfer from one wallet to another within seconds. It's that simple. &nbsp;</span><span style=\"font-size: 1.07rem;\">Trade any leading blockchain asset for any other. Protection by Design. No Account Needed.</span></p>",
