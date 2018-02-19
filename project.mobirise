@@ -32,7 +32,7 @@
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "siteUrl": "",
     "versionFirst": "4.4.1",
-    "uniqCompNum": 60,
+    "uniqCompNum": 63,
     "versionPublish": "4.4.1",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
@@ -277,6 +277,19 @@
               "font-size": "19px"
             }
           }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#c0a375"
+          },
+          "text": "<b>There are 1545 Coins listed in Market\n</b><div><b>We have only listed 48 coins in Bittasia. The most potential coins for long term profit.</b></div>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1q"
         },
         {
           "_params": {
